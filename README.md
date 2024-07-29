@@ -1,1 +1,1 @@
-# s3-DS-LAB-ktu
+# DATA STRUCTURES
